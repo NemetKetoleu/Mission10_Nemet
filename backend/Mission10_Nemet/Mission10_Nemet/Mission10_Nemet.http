@@ -1,0 +1,6 @@
+@Mission10_Nemet_HostAddress = http://localhost:5292
+
+GET {{Mission10_Nemet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
